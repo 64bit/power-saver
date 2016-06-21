@@ -2,11 +2,7 @@
   "manifest_version": 2,
 
   "name": "Power Saver",
-  "description": "Display consumes a lot of power, this extension turns screen dark and text bright, so that reading time on battery is extended.
-
-Icon Credit: 
-Font Awesome by Dave Gandy - http://fortawesome.github.com/Font-Awesome [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons
-",
+  "description": "Display consumes a lot of power, this extension turns screen dark and text bright, so that reading time on battery is extended.",
   "version": "1.0",
 
   "browser_action": {
